@@ -19,6 +19,7 @@ this is text
  
  ##this is how you add a picture
  
- !(lego)[https://images.app.goo.gl/x5VZyHtamh4CDQ196]
+ ![lego](https://www.lego.com/r/www/r/catalogs/-/media/catalogs/characters/star%20wars/star%20wars%202018/ipt-overview-transparent_450x600.png?l.r=-1726012251)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Embedded video
+
