@@ -17,7 +17,7 @@ What else do you need?
 this is text
  -another bullet
  
- ##this is how you add a picture
+ ### this is how you add a picture
  
  ![lego](https://www.lego.com/r/www/r/catalogs/-/media/catalogs/characters/star%20wars/star%20wars%202018/ipt-overview-transparent_450x600.png?l.r=-1726012251)
 
