@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Felix Peone's Portfolio
+title: Felix Peone
 
 # Short description of your site
-description: A collection of data science projects
+description: A portfolio of data science projects
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -21,9 +21,9 @@ description: A collection of data science projects
 # List of links in the navigation bar
 navbar-links:
   Bio: "aboutme"
-  Resources:
-    - Work: "http://www.bymason.com"
-    - Data: "https://data.seattle.gov/"
+  #Resources:
+    #- Work: "http://www.bymason.com"
+    #- Data: "https://data.seattle.gov/"
   #Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -67,13 +67,13 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+#  rss: true
+  email: "jgpcareer@gmail.com"
+#  facebook: deanattali
+  github: jpeone
+#  twitter: daattali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: jessegenepeone
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -93,7 +93,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "jpeone.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
