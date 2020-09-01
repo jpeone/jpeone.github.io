@@ -2,7 +2,7 @@
 layout: post
 title: Recommending cannabis strains using natural language processing
 subtitle: Working with a team of 3 data scientists, we built an api serve up strain recommendations to a webdev team
-bigimg: /img/cluster_map.jpeg
+bigimg: 
 gh-repo: BuildWeek-Med-Cabinet-4/DS
 gh-badge: [star, fork, follow]
 tags: [NLP, API, Cannabis, Data Science]
